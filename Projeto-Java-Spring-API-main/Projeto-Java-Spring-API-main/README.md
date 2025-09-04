@@ -40,7 +40,7 @@ Este repositório é responsável pelo backend da solução “Lista de Tarefas�
 
 1. Clone o repositório:  
     ```bash
-    git clone https://github.com/ZagoGiovanni/Projeto-Java-Spring-API.git
+    git clone https://github.com/KauanLourenti/listadetarefas-API.git
     ```
 
 2. Acesse o diretório do projeto:  
